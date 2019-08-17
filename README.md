@@ -3,6 +3,7 @@
 A basic Android App, built using Kotlin and Android Studio.
 
 
+
 ### How does it work?
 
 You will see a photo of a dog displayed, along with some text outlining it's breed and it's personality.
@@ -14,9 +15,14 @@ Continue doing this until you reach the end.
 It will then take you back to the first image.
 
 
+
 ### Screen Recording of app.
 
 Please see the link below to view this app in action, on Youtube:
+
+```
+
+```
 
 
 
